@@ -1,4 +1,5 @@
-# SimpleGame
+
+`# SimpleGame
 
 This is simple demo of the use of [Phaser 3](https://phaser.io/phaser3) a
 javascript library that allows to create games easily.
